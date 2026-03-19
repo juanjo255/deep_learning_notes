@@ -1,2 +1,2 @@
-# deep_learning_notes
+# Deep learning notes
 Keep track of my progress into Fastai course
